@@ -26,6 +26,7 @@ The CARE Dataset is described in the following paper: [[https://arxiv.org/abs/22
 ## Downloading the dataset
 
 Download the post ids and care labels with:
+
     wget dl.fbaipublicfiles.com/care/care_db_ids_and_labels.csv
 
 To download the metadata associated with the post ids, run 
