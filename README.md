@@ -1,6 +1,6 @@
 # The CARE Dataset for Affective Response Detection
 
-The CARE Dataset is described in the following paper: [[https://arxiv.org/abs/2209.13331](https://arxiv.org/abs/2209.13331)]
+The CARE Dataset is described in the following paper: [[https://arxiv.org/abs/2201.11895](https://arxiv.org/abs/2201.11895)]
 
 ```
 @article{DBLP:journals/corr/abs-2201-11895,
